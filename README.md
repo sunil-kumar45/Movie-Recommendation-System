@@ -1,43 +1,14 @@
 # Movie-Recommendation-System
-This project implements a movie recommendation system using machine learning techniques. The system suggests movies to users based on their preferences and viewing history.
+# Accident Analysis: Rural vs. Urban
 
-Table of Contents
-Introduction
+## Description
+This project analyzes accidents in rural and urban areas over a selected period.  
+The dashboard visualizes accident counts, vehicle types involved, and key metrics to identify trends and improve road safety.
 
-Features
-
-Dataset
-
-Dependencies
-
-Introduction
-The movie recommendation system is designed to provide users with personalized movie suggestions by analyzing their past interactions with movies and comparing them with the preferences of other users.
-
-Features
-Movie browsing and search
-
-Personalized movie recommendations
-
-Dataset
-The system uses the Movie dataset, which includes a collection of
-
-ID: Movie ID number on the website.
-
-title: Movie name
-
-genre: Movie genre (crime, adventure, etc.)
-
-original_language: Original language in which the movie is released
-
-overview: Summary of the movie
-
-popularity: Movie Popularity
-
-release_date: Movie release date
-
-vote_average: Movie vote average
-
-vote_count: Movie vote count
+## Key Features
+- Year-over-year accident comparison  
+- Vehicle-type analysis (cars, motorcycles, trucks, etc.)  
+- Clear visual dashboards for rural vs. urban accident trends
 
 Dependencies
 Python 3.7+
